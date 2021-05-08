@@ -12,3 +12,5 @@ fofa邮箱:api key
 * 保存结果为result1.txt和result2.txt
   result1的内容为获取的目标url
   result的内容为获取的目标ip
+
+![banner](https://github.com/ifyoudo/FofaSearch/blob/master/banner.jpg)
